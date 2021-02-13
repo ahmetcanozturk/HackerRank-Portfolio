@@ -9,5 +9,6 @@ Solutions are provided in C# and Python.
 
 #### solutions in Python
 - Is This a Binary Search Tree?
+- Largest Rectangle
 - Simple Text Editor
 - Waiter
