@@ -4,7 +4,10 @@
 Solutions are provided in C# and Python.
 
 #### solutions in C#
-
+- Balanced Brackets
+- Queue using Two Stacks
 
 #### solutions in Python
 - Is This a Binary Search Tree?
+- Simple Text Editor
+- Waiter
