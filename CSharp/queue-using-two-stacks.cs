@@ -1,6 +1,10 @@
 using System;
 using System.Collections.Generic;
-using System.IO;
+
+/*
+    * solution to the HackerRank problem "Queue using Two Stacks"
+    * https://www.hackerrank.com/challenges/queue-using-two-stacks/problem
+*/
 class Solution {
     static void Main(String[] args) {
         MyQueue myQueue = new MyQueue();
