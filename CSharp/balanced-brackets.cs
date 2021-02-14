@@ -1,7 +1,6 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-
 /*
     * solution to the HackerRank problem "Balanced Brackets"
     * https://www.hackerrank.com/challenges/balanced-brackets/problem

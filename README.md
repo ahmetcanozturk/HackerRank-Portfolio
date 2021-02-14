@@ -10,6 +10,7 @@ Solutions are provided in C# and Python.
 
 #### solutions in Python
 - Cycle Detection
+- Equal Stacks
 - Is This a Binary Search Tree?
 - Largest Rectangle
 - Simple Text Editor

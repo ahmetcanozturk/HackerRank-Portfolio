@@ -1,6 +1,5 @@
 using System;
 using System.Collections.Generic;
-
 /*
     * solution to the HackerRank problem "Queue using Two Stacks"
     * https://www.hackerrank.com/challenges/queue-using-two-stacks/problem
