@@ -6,8 +6,10 @@ Solutions are provided in C# and Python.
 #### solutions in C#
 - Balanced Brackets
 - Queue using Two Stacks
+- Sparse Arrays
 
 #### solutions in Python
+- Cycle Detection
 - Is This a Binary Search Tree?
 - Largest Rectangle
 - Simple Text Editor
