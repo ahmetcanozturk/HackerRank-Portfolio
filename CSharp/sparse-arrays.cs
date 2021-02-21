@@ -3,6 +3,7 @@ using System.Collections.Generic;
 /*
     * solution to the HackerRank problem "Sparse Arrays"
     * https://www.hackerrank.com/challenges/sparse-arrays/problem
+    * Ahmetcan Ozturk
 */
 class Solution {
 

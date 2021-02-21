@@ -4,6 +4,7 @@ using System.Linq;
 /*
     * solution to the HackerRank problem "Balanced Brackets"
     * https://www.hackerrank.com/challenges/balanced-brackets/problem
+    * Ahmetcan Ozturk
 */
 class Solution {
     static string isBalanced(string s)

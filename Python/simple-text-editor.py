@@ -1,6 +1,7 @@
 # solution to the HackerRank problem "Simple Text Editor"
 # https://www.hackerrank.com/challenges/simple-text-editor/problem
-# Implement a simple text editor. Initially, your editor contains an empty string
+# Implement a simple text editor. Initially, your editor contains an empty string.
+# Ahmetcan Ozturk
 
 class SimpleTextEditor:
     def __init__(self):

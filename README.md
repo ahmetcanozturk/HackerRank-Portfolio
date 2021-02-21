@@ -5,6 +5,7 @@ Solutions are provided in C# and Python.
 
 #### solutions in C#
 - Balanced Brackets
+- Contacts
 - Queue using Two Stacks
 - Sparse Arrays
 
@@ -13,5 +14,7 @@ Solutions are provided in C# and Python.
 - Equal Stacks
 - Is This a Binary Search Tree?
 - Largest Rectangle
+- Maximum Element
+- Mini-Max Sum
 - Simple Text Editor
 - Waiter

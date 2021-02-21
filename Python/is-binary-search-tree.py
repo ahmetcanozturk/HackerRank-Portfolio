@@ -1,6 +1,7 @@
 # solution to the HackerRank problem "Is This a Binary Search Tree?"
 # https://www.hackerrank.com/challenges/is-binary-search-tree/problem
 # Given the root node of a binary tree, can you determine if it's also a binary search tree?
+# Ahmetcan Ozturk
 
 import math
 

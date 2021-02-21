@@ -1,5 +1,6 @@
 # solution to the HackerRank problem "Waiter"
 # https://www.hackerrank.com/challenges/waiter/problem
+# Ahmetcan Ozturk
 
 def waiter(number, q):
     prime = 1

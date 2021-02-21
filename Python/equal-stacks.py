@@ -1,6 +1,7 @@
 # solution to the HackerRank problem "Equal Stacks"
 # https://www.hackerrank.com/challenges/equal-stacks/problem
 # Find the maximum possible height of the stacks such that all of the stacks are exactly the same height. 
+# Ahmetcan Ozturk
 
 def equalStacks(h1, h2, h3):
     equal = False

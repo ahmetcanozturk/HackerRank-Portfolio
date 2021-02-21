@@ -3,6 +3,7 @@ using System.Collections.Generic;
 /*
     * solution to the HackerRank problem "Queue using Two Stacks"
     * https://www.hackerrank.com/challenges/queue-using-two-stacks/problem
+    * Ahmetcan Ozturk
 */
 class Solution {
     static void Main(String[] args) {

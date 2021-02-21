@@ -1,6 +1,7 @@
 # solution to the HackerRank problem "Cycle Detection"
 # https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem
-# Given a pointer to the head of a linked list, determine if it contains a cycle
+# Given a pointer to the head of a linked list, determine if it contains a cycle.
+# Ahmetcan Ozturk
 
 def has_cycle(head):
     cycle = False

@@ -2,6 +2,7 @@
 # https://www.hackerrank.com/challenges/largest-rectangle/problem
 # Real Estate Developers is planning to demolish a number of old buildings and construct a shopping mall
 # Task is to find the largest solid area in which the mall can be constructed.
+# Ahmetcan Ozturk
 
 def largestRectangle(h):
     if len(h) == 0:
