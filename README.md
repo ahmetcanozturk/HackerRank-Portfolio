@@ -10,7 +10,13 @@ Solutions are provided in C# and Python.
 - Sparse Arrays
 
 #### solutions in Python
+- Binary Search Tree Insertion
+- Circular Array Rotation
+- Count Triplets
 - Cycle Detection
+- Designer Pdf Viewer
+- Diagonal Difference
+- Encryption
 - Equal Stacks
 - Is This a Binary Search Tree?
 - Largest Rectangle
